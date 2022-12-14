@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100921434141",
+    "project_id": "delivery-tracker-91d4a",
+    "storage_bucket": "delivery-tracker-91d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100921434141:android:80894680ec14cf93afe6f4",
+        "android_client_info": {
+          "package_name": "com.deliverytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100921434141-7kv3hj6sibrh63eol4ab5f400l6vlotq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverytracker",
+            "certificate_hash": "2792cbc660b9fbe9514af055c9b2b6409da62196"
+          }
+        },
+        {
+          "client_id": "100921434141-k9c4qggoete1cghv111h0fj38cfoanrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7B1facTcSDASCRyc2qUbDF8Mz6JXzWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100921434141-k9c4qggoete1cghv111h0fj38cfoanrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

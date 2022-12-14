@@ -5,6 +5,18 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O app delivery tracker precisa acessar suas fotos para cadastrar seus pedidos."
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#FFFFFF"
+    }
   }
 }
